@@ -248,6 +248,7 @@ html {
     background-image: url(..//profile.png);
     background-size: cover;
     border-radius: 20px;
+    content-visibility: auto;
     /* display: flex; */
     /* align-items: left;
     position: absolute;
