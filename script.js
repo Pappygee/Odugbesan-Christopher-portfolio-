@@ -73,7 +73,7 @@ const projectsData = [
     {
         id: 6,
         name: 'Business website',
-        url: 'https://example.com/realestate',
+        url: 'https://pappygee.github.io/Metose-sons-Enterprise/',
         image: ''
     }
 ];
