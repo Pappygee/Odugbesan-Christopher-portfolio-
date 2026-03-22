@@ -243,6 +243,7 @@ html {
 .profile-placeholder {
     width: 100%;
     max-width: 400px;
+    min-height:400px;
     aspect-ratio: 1;
     /* background: linear-gradient(135deg, var(--primary-color), var(--dark-green)); */
     background-image: url(..//profile.png);
