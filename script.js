@@ -74,7 +74,7 @@ const projectsData = [
         id: 6,
         name: 'Business website',
         url: 'https://pappygee.github.io/Metose-sons-Enterprise/',
-        image: ''
+        image: 'Screenshot_2026-03-22-18-20-40-182_com.android.chrome~2.jpg'
     }
 ];
 
