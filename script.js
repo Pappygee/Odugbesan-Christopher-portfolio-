@@ -108,9 +108,9 @@ const skillsData = [
     { name: 'SQL', level: 50, icon: 'fab fa-sql' },
     { name: 'MSQL', level: 70, icon: 'fab fa-mysql' },
     { name: 'Git', level: 88, icon: 'fab fa-git-alt' },
-    { name: 'Responsive Design', level: 92, icon: 'fas fa-mobile-alt' },
-    { name: 'Web Performance', level: 85, icon: 'fas fa-bolt' },
-    { name: 'Accessibility', level: 88, icon: 'fas fa-universal-access' }
+    { name: 'Responsive Design', level: 72, icon: 'fas fa-mobile-alt' },
+    { name: 'Web Performance', level: 65, icon: 'fas fa-bolt' },
+    { name: 'Accessibility', level: 80, icon: 'fas fa-universal-access' }
 ];
 
 function renderSkills() {
