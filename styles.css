@@ -246,7 +246,7 @@ html {
     min-height:400px;
     aspect-ratio: 1;
     /* background: linear-gradient(135deg, var(--primary-color), var(--dark-green)); */
-    background-image: url(..//profile.png);
+    background-image: url(profile.png);
     background-size: cover;
     border-radius: 20px;
     no-content-collapse:0;
